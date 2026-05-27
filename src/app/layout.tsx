@@ -14,8 +14,10 @@ const beVietnamPro = Be_Vietnam_Pro({
   display: "swap",
 });
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://celiahoportfolio.vercel.app";
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hazelportfolio.vercel.app"),
+  metadataBase: new URL(siteUrl),
   title: "Celia Ho's Portfolio",
   description: "Project-led media planner portfolio focused on commerce growth, brand strategy, and conversion improvement across FMCG, beauty, and real estate.",
   icons: {
@@ -24,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Celia Ho's Portfolio",
     description: "Project-led media planner portfolio with case studies across commerce, brand, and UX performance.",
-    url: "https://hazelportfolio.vercel.app",
+    url: siteUrl,
     images: [{ url: "/HoHaoDuyen_Portrait.jpeg", width: 1200, height: 1200 }],
   },
   twitter: {

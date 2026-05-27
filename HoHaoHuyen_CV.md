@@ -1,7 +1,7 @@
 
 **HO HAO DUYEN (Ms.)**
 
-(+84) 947 892 845 | <duyenhoforwork@gmail.com> | [My Portfolio](https://hazelportfolio.vercel.app/)
+(+84) 947 892 845 | <duyenhoforwork@gmail.com> | [My Portfolio](https://celiahoportfolio.vercel.app/)
 
 *Results-driven marketer with a strong track record in developing and*
 
