@@ -1,6 +1,6 @@
-# Hazel Ho Portfolio
+# Celia Ho Portfolio
 
-Next.js 14 portfolio site for Hazel Ho, focused on case studies, recognition, and direct contact pathways.
+Next.js 14 portfolio site for Celia Ho, focused on case studies, recognition, and direct contact pathways.
 
 ## Local Setup
 

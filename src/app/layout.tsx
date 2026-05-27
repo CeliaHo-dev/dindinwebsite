@@ -16,20 +16,20 @@ const beVietnamPro = Be_Vietnam_Pro({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hazelportfolio.vercel.app"),
-  title: "Hazel Ho's Portfolio",
+  title: "Celia Ho's Portfolio",
   description: "Project-led media planner portfolio focused on commerce growth, brand strategy, and conversion improvement across FMCG, beauty, and real estate.",
   icons: {
     icon: "/HoHaoDuyen_Portrait.jpeg",
   },
   openGraph: {
-    title: "Hazel Ho's Portfolio",
+    title: "Celia Ho's Portfolio",
     description: "Project-led media planner portfolio with case studies across commerce, brand, and UX performance.",
     url: "https://hazelportfolio.vercel.app",
     images: [{ url: "/HoHaoDuyen_Portrait.jpeg", width: 1200, height: 1200 }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hazel Ho's Portfolio",
+    title: "Celia Ho's Portfolio",
     description: "Project-led media planner portfolio with case studies across commerce, brand, and UX performance.",
     images: ["/HoHaoDuyen_Portrait.jpeg"],
   },

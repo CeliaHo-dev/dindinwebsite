@@ -43,7 +43,7 @@ export default function Nav() {
             >
                 <div className="px-6 md:px-16 py-4 flex justify-between items-center w-full">
                     <div className="text-[20px] font-extrabold text-white tracking-tight z-50">
-                        Hazel<span className="text-gradient">.</span>
+                        Celia<span className="text-gradient">.</span>
                     </div>
 
                     {/* Desktop Menu */}
@@ -63,7 +63,7 @@ export default function Nav() {
                             data-telemetry-label="linkedin"
                             data-telemetry-section="desktop_header"
                             className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-border text-muted transition-all duration-300 hover:border-purple/30 hover:text-white"
-                            aria-label="Hazel Ho LinkedIn"
+                            aria-label="Celia Ho LinkedIn"
                         >
                             <Linkedin className="w-4 h-4" />
                         </Link>

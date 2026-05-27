@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-    title: "Projects - Hazel Ho",
+    title: "Projects - Celia Ho",
     description: "Project-led marketing and media case studies by Ho Hao Duyen.",
 };
 
@@ -26,7 +26,7 @@ export default function ProjectsLayout({
                         <ArrowLeft className="w-4 h-4 transition-transform duration-300 group-hover:-translate-x-1" />
                         Back to Portfolio
                     </Link>
-                    <span className="text-[13px] font-semibold text-white/60">Hazel Ho</span>
+                    <span className="text-[13px] font-semibold text-white/60">Celia Ho</span>
                 </div>
             </nav>
 

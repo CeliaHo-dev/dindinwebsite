@@ -50,16 +50,16 @@ export function generateMetadata({ params }: ProjectPageProps): Metadata {
     const metaImage = project.gallery?.find((item) => !item.homepageOnly)?.src ?? project.gallery?.[0]?.src ?? "/HoHaoDuyen_Portrait.jpeg";
 
     return {
-        title: `${project.title} - Hazel Ho`,
+        title: `${project.title} - Celia Ho`,
         description: project.summary,
         openGraph: {
-            title: `${project.title} - Hazel Ho`,
+            title: `${project.title} - Celia Ho`,
             description: project.summary,
             images: [metaImage],
         },
         twitter: {
             card: "summary_large_image",
-            title: `${project.title} - Hazel Ho`,
+            title: `${project.title} - Celia Ho`,
             description: project.summary,
             images: [metaImage],
         },

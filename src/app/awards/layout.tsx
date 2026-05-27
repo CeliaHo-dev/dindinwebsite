@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-    title: "Recognition - Hazel Ho",
+    title: "Recognition - Celia Ho",
     description: "Recognition, credentials, and supporting proof across media and commerce work by Ho Hao Duyen.",
 };
 
@@ -28,7 +28,7 @@ export default function AwardsLayout({
                         Back to Portfolio
                     </Link>
                     <span className="text-[13px] font-semibold text-white/60">
-                        Hazel Ho
+                        Celia Ho
                     </span>
                 </div>
             </nav>
